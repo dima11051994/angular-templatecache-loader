@@ -59,7 +59,7 @@ relativeTo is used to strip a matching prefix from the path of the input html fi
   }
 ```
 
-The above will remove the "/public/" from the generated templateUrl path
+The above will remove the "/public/" from the generated templateUrl path.
 
 4. You can also use context in webpack to pass correct template url. See [Context example](https://github.com/EJIqpEP/angular-templatecache-loader/tree/master/examples/context)
 
