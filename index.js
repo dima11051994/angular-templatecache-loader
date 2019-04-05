@@ -39,7 +39,7 @@ module.exports = function (source) {
         removeCommentsFromCDATA: true,
         removeCDATASectionsFromCDATA: true,
         collapseWhitespace: true,
-        collapseBooleanAttributes: true,
+        collapseBooleanAttributes: false,
         removeAttributeQuotes: true,
         useShortDoctype: true,
         removeEmptyAttributes: true,
